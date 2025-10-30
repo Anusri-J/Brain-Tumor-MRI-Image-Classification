@@ -82,9 +82,10 @@ Bar chart displays probabilities for all 4 tumor types.
 
 **📈 Model Results:**
 
-**Model**	|**Accuracy**	|**Remarks** |
-Custom CNN	| ~91%	| Built from scratch, compact architecture|
-EfficientNetB0	|~96%	| Transfer learning, best performing model |
+|**Model**	|**Accuracy**	|**Remarks** |
+|-----------|-----------|-----------|
+|Custom CNN	| ~91%	| Built from scratch, compact architecture|
+|EfficientNetB0	|~96%	| Transfer learning, best performing model |
 
 **🛠️ Tech Stack Used**
 
