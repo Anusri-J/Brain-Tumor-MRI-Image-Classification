@@ -142,9 +142,11 @@ dataset/
 
 **💻 Run the Streamlit App**
 
-'''!nohup streamlit run app.py --server.port 8501 &>/content/streamlit.log &
+```
+!nohup streamlit run app.py --server.port 8501 &>/content/streamlit.log &
 from pyngrok import ngrok
-print("Streamlit App URL:", ngrok.connect(8501))'''
+print("Streamlit App URL:", ngrok.connect(8501))
+```
 
 **🧮 Key Learnings**
 
