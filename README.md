@@ -108,6 +108,7 @@ Bar chart displays probabilities for all 4 tumor types.
 **Source:** Tumour (Updated)
 
 **Classes:**
+
 🧩 Glioma
 
 🧩 Meningioma
