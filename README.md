@@ -118,6 +118,7 @@ Bar chart displays probabilities for all 4 tumor types.
 
 **Structure:**
 
+```
 dataset/
  ├── train/
  │   ├── glioma/
@@ -126,7 +127,7 @@ dataset/
  │   └── pituitary/
  ├── valid/
  └── test/
-
+```
 
 **🧩 Streamlit App Features**
 
