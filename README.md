@@ -118,7 +118,7 @@ Bar chart displays probabilities for all 4 tumor types.
 
 **Structure:**
 
-dataset/
+```dataset/
  ├── train/
  │   ├── glioma/
  │   ├── meningioma/
@@ -141,7 +141,7 @@ dataset/
 
 **💻 Run the Streamlit App**
 
-!nohup streamlit run app.py --server.port 8501 &>/content/streamlit.log &
+```!nohup streamlit run app.py --server.port 8501 &>/content/streamlit.log &
 from pyngrok import ngrok
 print("Streamlit App URL:", ngrok.connect(8501))
 
