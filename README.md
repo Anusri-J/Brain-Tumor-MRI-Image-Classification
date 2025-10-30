@@ -125,7 +125,7 @@ Bar chart displays probabilities for all 4 tumor types.
  │   ├── no_tumor/
  │   └── pituitary/
  ├── valid/
- └── test/
+ └── test/```
 
 **🧩 Streamlit App Features**
 
@@ -143,7 +143,7 @@ Bar chart displays probabilities for all 4 tumor types.
 
 ```!nohup streamlit run app.py --server.port 8501 &>/content/streamlit.log &
 from pyngrok import ngrok
-print("Streamlit App URL:", ngrok.connect(8501))
+print("Streamlit App URL:", ngrok.connect(8501))```
 
 **🧮 Key Learnings**
 
